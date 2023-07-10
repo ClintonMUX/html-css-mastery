@@ -1,0 +1,75 @@
+p {
+  font-family: Arial;
+}
+
+.new-text{
+  color: orange;
+  margin-bottom: 0;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 8px;
+
+}
+.item-text{
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 8px;
+  text-align: center;
+  
+}
+.promo-text{
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 8px;
+  text-align: center;
+  
+}
+.range-text{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 8px;
+  text-align: center;
+  margin-bottom: 50;
+
+  
+}
+.buy-btn{
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  background-color: rgb(9, 121, 219);
+  color: white;
+  border-radius: 15px;
+  justify-content: center;
+  font-weight: bold;
+  margin-left: 220px;
+}
+
+.freecamp1{
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.freecamp2{
+  font-weight: normal;
+  color: rgb(96, 96, 96);
+  
+}
+
+.freedesc{
+  width: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.chp_it{
+  color: rgb(0, 162, 255);
+  
+}
+
